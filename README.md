@@ -1,2 +1,6 @@
-# vibe-docs
-Markdown repo for gitbook
+---
+description: Virtualized Intermodular Bytecode Environment
+---
+
+# Introduction
+
