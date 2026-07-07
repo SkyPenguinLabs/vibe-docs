@@ -23,4 +23,4 @@
 
 ## Hello world
 
-* [Hello World](hellowrold_a_new_file_arose.md])
+* [Hello World](hello-world/hello-world.md)
